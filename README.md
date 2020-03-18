@@ -1,0 +1,2 @@
+# CaseCore
+BotNaCaseCore
